@@ -12,6 +12,7 @@ body{
 .introduction {
   flex: justify;
   background-color: black;
+  margin-bottom: 2rem;
 }
 
 .title {
