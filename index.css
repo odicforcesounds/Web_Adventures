@@ -6,6 +6,7 @@ html {
 body{
   margin: 4px;
   padding: 0.5rem;
+  background-color: #FF33FF;
 }
 
 .introduction {
@@ -28,8 +29,8 @@ body{
 }
 
 .description{
-  background-color: pink;
-  color: brown; 
+  background-color: #FF00FF; 
+  color: #FFCCFF; 
   margin: 1rem; 
 }
 
