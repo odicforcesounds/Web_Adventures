@@ -32,13 +32,39 @@ body{
   background-color: #FF00FF; 
   color: #FFCCFF; 
   margin: 1rem; 
-  margin-bottom: 2rem;
+  text-align: justify;
 }
 
 .presentation{
   margin: 1rem;
+  padding: 0.5%;
   color: white;
   background-color: black; 
 }
 
+.team{
+  margin: 1rem; 
+  padding: 0.5%;
+  color: pink;
+  background-color: darkblue;
+}
 
+.proposals {
+  margin: 1rem;
+  padding: 0.5%;
+}
+
+.explain{
+  margin: 1rem;
+  padding: 0.5%;
+}
+
+.silence{
+  margin: 1rem;
+  padding: 0.5%;
+}
+
+.design{
+  margin: 1rem;
+  padding: 0.5%;
+}
