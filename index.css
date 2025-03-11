@@ -35,11 +35,16 @@ body{
   text-align: justify;
 }
 
+
 .presentation{
   margin: 1rem;
   padding: 0.5%;
   color: white;
   background-color: black; 
+}
+
+.presentation a{
+  color: cyan; 
 }
 
 .team{
