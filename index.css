@@ -1,0 +1,41 @@
+html {
+  margin:0;
+  padding:0;
+}
+
+body{
+  margin: 4px;
+  padding: 0.5rem;
+}
+
+.introduction {
+  flex: justify;
+}
+
+.title {
+  color: red;
+  font-size: xx-large;
+}
+
+.center {
+  text-align: center;
+}
+
+.sub-title{
+  color: red;
+  font-size: large;
+}
+
+.description{
+  background-color: pink;
+  color: brown; 
+  margin: 1rem; 
+}
+
+.presentation{
+  margin: 1rem;
+  color: white;
+  background-color: black; 
+}
+
+
