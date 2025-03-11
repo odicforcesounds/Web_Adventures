@@ -12,7 +12,6 @@ body{
 .introduction {
   flex: justify;
   background-color: black;
-  margin-bottom: 2rem;
 }
 
 .title {
@@ -33,6 +32,7 @@ body{
   background-color: #FF00FF; 
   color: #FFCCFF; 
   margin: 1rem; 
+  margin-bottom: 2rem;
 }
 
 .presentation{
